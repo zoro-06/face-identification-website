@@ -1,0 +1,14 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    background-image: url("/summertime.gif");
+    background-size: cover;
+}
+
+.camera{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 20px;
+}
